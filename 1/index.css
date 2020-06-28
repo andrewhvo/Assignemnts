@@ -34,7 +34,6 @@ h2
 .intro {
     padding-top: 75px;
     padding-left: 100px;
-    font-style: ;
     font-size: 150%;
 }
 
@@ -55,7 +54,7 @@ h2
     color: navy;
     display: inline;
     padding-right:50px;
-    padding-bottom: 50p;
+    padding-bottom: 50px;
 }
 
 a:link {
